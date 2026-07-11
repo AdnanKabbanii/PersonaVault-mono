@@ -1,6 +1,6 @@
 PersonaVault
 
-This is an older personal project of mine. I built it to explore RAG (retrieval augmented generation) with a focus on storing your own documents and chatting with them. The goal was a simple multi-user document vault where you upload files, search them in natural language, and get answers backed by your data.
+Built it to explore RAG (retrieval augmented generation) with a focus on storing your own documents and chatting with them. The goal was a simple multi-user document vault where you upload files, search them in natural language, and get answers backed by your data.
 
 This repo is a monorepo with two packages:
 
@@ -96,6 +96,8 @@ Frontend (fe/.env.local):
 Supported file types
 
 PDF, DOC, DOCX, TXT, MD
+
+Project history: Originally developed as a private personal project and released publicly in July 2026 after removing private configuration and sensitive data. The public repository uses a cleaned, squashed history.
 
 License
 
