@@ -1,0 +1,7 @@
+sentence-transformers>=2.2.2
+flask>=2.3.0
+torch>=2.0.0
+numpy>=1.24.0
+transformers>=4.30.0
+accelerate>=0.20.0
+optimum>=1.8.0

@@ -1,0 +1,3 @@
+cd fe npm run dev
+npm run dev
+npm run api
